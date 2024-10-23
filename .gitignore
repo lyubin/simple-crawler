@@ -1,0 +1,11 @@
+.bloop
+.vscode
+.metals
+.idea
+.bsp
+.vs
+*.class
+*.log
+target
+build64
+~
