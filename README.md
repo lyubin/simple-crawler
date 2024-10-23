@@ -15,7 +15,7 @@
 
 ## Endpoints ##
 
- * http://localhost:8080/  - front application
+ * **GET** http://localhost:8080/  - front application
  * **GET** http://localhost:8080/docs/ - swagger docs
  * **GET** http://localhost:8080/api/capture/title/flat?url=https://ya.ru - получение title из одной 
 страницы (результат простой текст)
