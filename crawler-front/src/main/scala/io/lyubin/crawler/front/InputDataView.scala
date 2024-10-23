@@ -12,7 +12,6 @@ object InputDataView {
         "Urls"
       ),
       textArea(
-        "https://laminar.dev/documentation\nhttps://www.w3schools.com/w3css/w3css_tables.asp",
         cls("w3-input w3-border"),
         rows(10),
         //value --> urlsWriter,
