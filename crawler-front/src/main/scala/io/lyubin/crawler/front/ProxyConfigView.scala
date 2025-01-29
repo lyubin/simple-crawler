@@ -31,7 +31,7 @@ object ProxyConfigView {
             checked(false),
             onInput.mapToChecked --> useProxyWriter
           ),
-          label("Use Proxy")
+          label("Use Proxy1")
         )
       ),
       div(
